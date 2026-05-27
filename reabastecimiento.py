@@ -1,3 +1,6 @@
+# Derly Vanesa Rozo castellanos 
+# Ingenieria de sistemas
+# Grupo: 213022_1023
 # Matriz de inventario: [Código, Nombre, Stock Actual, Stock Mínimo]
 inventario = [
     ["A001", "Papel resma",       15,  20],
